@@ -1,0 +1,84 @@
+{
+    "tags": {
+        "content": {
+            "multiclass": {
+                "pinned": false,
+                "color": "EBC844",
+                "count": 7
+            },
+            "embedding": {
+                "pinned": false,
+                "color": "AA1F4B",
+                "count": 2
+            },
+            "multilabel": {
+                "pinned": false,
+                "color": 117899,
+                "count": 1
+            },
+            "benchmark": {
+                "pinned": false,
+                "color": "5CA793",
+                "count": 1
+            },
+            "tree": {
+                "pinned": false,
+                "color": "A2B86C",
+                "count": 1
+            },
+            "optimization": {
+                "pinned": false,
+                "color": "ECAA38",
+                "count": 1
+            },
+            "loss": {
+                "pinned": false,
+                "color": "EF8B2C",
+                "count": 1
+            },
+            "reinforcement": {
+                "pinned": false,
+                "color": "F16C20",
+                "count": 3
+            },
+            "q-learning": {
+                "pinned": false,
+                "color": "D94E1F",
+                "count": 1
+            },
+            "ensembling": {
+                "pinned": false,
+                "color": "C02E1D",
+                "count": 1
+            },
+            "policy-gradient": {
+                "pinned": false,
+                "color": "8A214F",
+                "count": 2
+            }
+        },
+        "reading": {
+            "toRead": {
+                "pinned": false,
+                "color": "0D3C55",
+                "count": 3
+            },
+            "partialRead": {
+                "pinned": false,
+                "color": "0F5B78",
+                "count": 1
+            },
+            "new": {
+                "pinned": false,
+                "color": "1395BA",
+                "count": 1
+            },
+            "readed": {
+                "pinned": false,
+                "color": "65214F",
+                "count": 4
+            }
+        }
+    },
+    "googleDriveRoot": "biblio"
+}

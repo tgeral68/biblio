@@ -1,0 +1,22 @@
+{
+    "title": "Label embedding trees for large multi-class tasks",
+    "authors": [
+        "Bengio, Samy",
+        "Weston, Jason",
+        "Grangier, David"
+    ],
+    "year": "2010",
+    "date_added": "2016-10-21 13:57",
+    "in": "Advances in Neural Information Processing Systems",
+    "tags_reading": [
+        "readed"
+    ],
+    "url": "",
+    "tags_content": [
+        "tree",
+        "multiclass",
+        "optimization",
+        "loss",
+        "embedding"
+    ]
+}

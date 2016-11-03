@@ -1,0 +1,22 @@
+{
+    "title": "Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings",
+    "authors": [
+        "Rai, Piyush",
+        "Hu, Changwei",
+        "Henao, Ricardo",
+        "Carin, Lawrence"
+    ],
+    "year": "2015",
+    "date_added": "2016-10-17 15:13",
+    "in": "Advances in Neural Information Processing Systems 28",
+    "tags_reading": [
+        "partialRead",
+        "toRead"
+    ],
+    "url": "http:\/\/papers.nips.cc\/paper\/5770-large-scale-bayesian-multi-label-learning-via-topic-based-label-embeddings.pdf",
+    "tags_content": [
+        "multiclass",
+        "embedding",
+        "multilabel"
+    ]
+}
